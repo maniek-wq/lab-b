@@ -1,0 +1,18 @@
+#frame {
+  -webkit-box-shadow: 19px 11px 38px -11px rgba(143, 143, 151, 1);
+  -moz-box-shadow: 19px 11px 38px -11px rgba(143, 143, 151, 1);
+  box-shadow: 19px 11px 38px -11px rgba(143, 143, 151, 1);
+  padding: 20px;
+  margin: 20px;
+  border: solid 0.5px grey;
+  border-radius: 15px;
+}
+#frame > button {
+  margin: 0 10px;
+}
+.red {
+  color: red;
+}
+.green {
+  color: green;
+}
